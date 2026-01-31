@@ -1,0 +1,5 @@
+{
+  "name": "UPI PayTracker",
+  "description": "A public mobile app (simulated as a web app) that allows individuals and businesses to pay vendors via UPI, with mandatory payment details for tracking, accounting, and budgeting. It supports QR code scanning (simulated), manual UPI ID entry, transaction history, and monthly spending summaries. Backend interactions are simulated using local storage for this demonstration.",
+  "requestFramePermissions": []
+}
